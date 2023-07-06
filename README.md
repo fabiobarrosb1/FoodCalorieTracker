@@ -29,7 +29,7 @@ If you'd like to host this project online, you have to change the Base URL of th
 ![Main page](calorie-tracker/Images/Graph.png)
 
 ### Calories Track
-![Main page](calorie-tracker/Images/Graph.png)
+![Main page](calorie-tracker/Images/Calories.png)
 
 ### Calories Track - new entry
 ![Main page](calorie-tracker/Images/NewEntry.png)
